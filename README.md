@@ -1,5 +1,5 @@
 # collaborative-design-wiki
-Home of the [collaborative design wiki](https://github.com/oresmus/collaborative-design-wiki/wiki), for now.
+Home of the [collaborative design wiki](https://github.com/oresmus/collaborative-design-wiki/wiki), for now (which is associated with, but distinct from, the [collaborative design blog](https://oresmus.github.io/)).
 
 To edit that wiki I think you will need a GitHub account (sorry, but don't hesitate to get one for this purpose, it's easy and safe).
 
